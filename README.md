@@ -1,7 +1,3 @@
-Claro, vou simplificar e ajustar o texto para você copiar e colar diretamente no README:
-
----
-
 # Conversão de Arquivos XLSX para CSV com UTF-8
 
 Este projeto converte arquivos Excel (XLSX) para CSV com codificação UTF-8, facilitando a importação dos arquivos para o Google BigQuery e outras ferramentas que utilizam CSV. Muitas vezes, ao salvar diretamente do Excel, os arquivos CSV acabam com a codificação ISO-8859-1, o que pode causar problemas com caracteres especiais. Esta solução usa Python e Pandas para automatizar a conversão, garantindo a codificação UTF-8.
@@ -47,5 +43,3 @@ Se tiver sugestões ou melhorias, fique à vontade para contribuir.
 ---
 
 Feito com ❤️ e com a ajuda do ChatGPT.
-
----
