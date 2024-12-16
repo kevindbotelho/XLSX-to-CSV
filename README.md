@@ -39,7 +39,3 @@ converter_xlsx_para_csv(diretorio_entrada, diretorio_saida)
 ## Contribuições
 
 Se tiver sugestões ou melhorias, fique à vontade para contribuir.
-
----
-
-Feito com ❤️ e com a ajuda do ChatGPT.
